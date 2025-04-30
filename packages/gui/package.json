@@ -35,7 +35,7 @@
     "sass": "^1.81.0",
     "sass-loader": "^16.0.3",
     "search-bar-vue2": "^1.0.0",
-    "vue": "^3.0.2",
+    "vue": "^3.0.3",
     "vue-json-editor-fix-cn": "^1.4.3",
     "vue-router": "^3.6.5"
   },
