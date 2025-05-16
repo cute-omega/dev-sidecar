@@ -16,6 +16,7 @@
     "test": "mocha"
   },
   "dependencies": {
+    "@docmirror/dev-sidecar": "file:",
     "@starknt/sysproxy": "^0.0.3",
     "@vscode/sudo-prompt": "^9.3.1",
     "fix-path": "^3.0.0",
