@@ -16,8 +16,17 @@
   },
   "pnpm": {
     "supportedArchitectures": {
-      "os": ["current"],
-      "cpu": ["x64", "arm64", "ia32"]
+      "os": [
+        "current"
+      ],
+      "cpu": [
+        "x64",
+        "arm64",
+        "ia32"
+      ]
     }
+  },
+  "dependencies": {
+    "dev-sidecar-parent": "file:"
   }
 }
