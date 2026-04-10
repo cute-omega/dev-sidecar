@@ -20,7 +20,7 @@
     "@vscode/sudo-prompt": "^9.3.1",
     "fix-path": "^3.0.0",
     "iconv-lite": "^0.6.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "log4js": "^6.9.1",
     "node-powershell": "^4.0.0",
     "spawn-sync": "^2.0.0",
